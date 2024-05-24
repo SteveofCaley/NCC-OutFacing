@@ -4,7 +4,7 @@ Property and Text:
 
 ## NCC-MERP Dangerous Abbreviations Substitution
 
-Version 3.0 as of 5/29/22 as final active edition.
+Version 3.0 as of 05/24/24 as final active edition.
 
 ## Open source code in .ahk file
 
